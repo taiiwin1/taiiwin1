@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Hi! I'm a third year student at the UW in Seattle, passionate about building tangible products for my end users.<br><br>💭 I'm currently working WalletWizard, a fintech application for my capstone project. <br><br>🪴 I am in the process of learning C++ programming. <br><br>📫 You can reach me at tainnguyen2@gmail.com
+🌟 Hi! I'm a third year student at the UW in Seattle, passionate about building tangible products for my end users.<br><br>💭 I'm currently working on WalletWizard, a fintech application for my capstone project. <br><br>🪴 I am in the process of learning C++ programming. <br><br>📫 You can reach me at tainnguyen2@gmail.com
 
 
 # 💻 Tech Stack:
